@@ -1,23 +1,19 @@
-/** @type { import('@storybook/react-vite').StorybookConfig } */
-import { themes } from '@storybook/theming'
-
-const config = {
-  stories: [
-    '../src/pages/**/*.mdx',
-    '../src/stories/**/*.stories.@(js|jsx|ts|tsx)',
+module.exports = {
+  "stories": [
+    "../src/pages/**/*.stories.mdx",
+    "../src/stories/**/*.stories.tsx"
   ],
-  addons: [
-    '@storybook/addon-links',
-    '@storybook/addon-essentials',
-    '@storybook/addon-interactions',
+  "addons": [
+    "@storybook/addon-links",
+    "@storybook/addon-essentials",
+    "@storybook/addon-interactions",
+    "@storybook/addon-a11y"
   ],
-  framework: {
-    name: '@storybook/react-vite',
-    options: {},
+  "framework": "@storybook/react",
+  "core": {
+    "builder": "@storybook/builder-vite"
   },
-  docs: {
-    theme: themes.dark,
-    autodocs: 'tag',
-  },
+  "features": {
+    "storyStoreV7": true
+  }
 }
-export default config
