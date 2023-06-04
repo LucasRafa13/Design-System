@@ -1,0 +1,103 @@
+
+> @ignite-ui/docs@1.0.0 build
+> storybook build
+
+@storybook/cli v7.0.18
+
+info => Cleaning outputDir: /storybook-static
+info => Loading presets
+info => Building manager..
+info => Manager built (122 ms)
+info => Copying static files: /Users/luke/Desktop/Projetos/design-system/node_modules/@storybook/manager/static at /Users/luke/Desktop/Projetos/design-system/packages/docs/storybook-static/sb-common-assets
+vite v3.2.7 building for production...
+
+./sb-common-assets/fonts.css doesn't exist at build time, it will remain unchanged to be resolved at runtime
+transforming...
+Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+✓ 1010 modules transformed.
+rendering chunks...
+storybook-static/iframe.html                                          13.47 KiB
+storybook-static/assets/index.b38f6aa4.js                             0.75 KiB / gzip: 0.46 KiB
+storybook-static/assets/index.b38f6aa4.js.map                         3.07 KiB
+storybook-static/assets/iframe.9c3a78e5.js                            6.96 KiB / gzip: 1.77 KiB
+storybook-static/assets/iframe.9c3a78e5.js.map                        8.63 KiB
+storybook-static/assets/index.5ca63ce8.js                             0.16 KiB / gzip: 0.12 KiB
+storybook-static/assets/index.5ca63ce8.js.map                         0.74 KiB
+storybook-static/assets/_commonjsHelpers.b8add541.js                  0.23 KiB / gzip: 0.17 KiB
+storybook-static/assets/_commonjsHelpers.b8add541.js.map              0.11 KiB
+storybook-static/assets/preview.16d36a61.js                           2.42 KiB / gzip: 1.23 KiB
+storybook-static/assets/preview.16d36a61.js.map                       9.81 KiB
+storybook-static/assets/preview.5cd3fb62.js                           0.47 KiB / gzip: 0.31 KiB
+storybook-static/assets/preview.5cd3fb62.js.map                       0.48 KiB
+storybook-static/assets/preview.0fc955fa.js                           2.31 KiB / gzip: 1.19 KiB
+storybook-static/assets/preview.0fc955fa.js.map                       10.31 KiB
+storybook-static/assets/preview.b4b8bf1a.js                           3.12 KiB / gzip: 1.33 KiB
+storybook-static/assets/preview.b4b8bf1a.js.map                       9.72 KiB
+storybook-static/assets/preview.362c5767.js                           7.77 KiB / gzip: 2.94 KiB
+storybook-static/assets/preview.362c5767.js.map                       27.25 KiB
+storybook-static/assets/index.d740f85e.js                             7.01 KiB / gzip: 2.85 KiB
+storybook-static/assets/index.d740f85e.js.map                         15.14 KiB
+storybook-static/assets/preview.2ba50a04.js                           7.44 KiB / gzip: 1.53 KiB
+storybook-static/assets/preview.2ba50a04.js.map                       13.25 KiB
+storybook-static/assets/preview.05e41289.js                           0.82 KiB / gzip: 0.54 KiB
+storybook-static/assets/preview.05e41289.js.map                       2.69 KiB
+storybook-static/assets/preview.f484c43a.js                           20.54 KiB / gzip: 6.79 KiB
+storybook-static/assets/preview.f484c43a.js.map                       66.28 KiB
+storybook-static/assets/home.stories.5d5e8e24.js                      0.98 KiB / gzip: 0.55 KiB
+storybook-static/assets/home.stories.5d5e8e24.js.map                  1.22 KiB
+storybook-static/assets/memoizerific.891dfb8a.js                      3.22 KiB / gzip: 1.34 KiB
+storybook-static/assets/memoizerific.891dfb8a.js.map                  12.09 KiB
+storybook-static/assets/index.f3470e32.js                             0.50 KiB / gzip: 0.31 KiB
+storybook-static/assets/index.f3470e32.js.map                         4.17 KiB
+storybook-static/assets/colors.stories.ddd19d70.js                    1.36 KiB / gzip: 0.75 KiB
+storybook-static/assets/colors.stories.ddd19d70.js.map                2.55 KiB
+storybook-static/assets/font-sizes.stories.a9bde599.js                1.06 KiB / gzip: 0.58 KiB
+storybook-static/assets/font-sizes.stories.a9bde599.js.map            1.40 KiB
+storybook-static/assets/TokensGrid.59f9e356.js                        0.76 KiB / gzip: 0.41 KiB
+storybook-static/assets/TokensGrid.59f9e356.js.map                    1.59 KiB
+storybook-static/assets/index.75b2c3cd.js                             0.86 KiB / gzip: 0.46 KiB
+storybook-static/assets/index.75b2c3cd.js.map                         2.43 KiB
+storybook-static/assets/font-weights.stories.1b704ad3.js              1.05 KiB / gzip: 0.57 KiB
+storybook-static/assets/font-weights.stories.1b704ad3.js.map          1.39 KiB
+storybook-static/assets/line-height.stories.f24b08a0.js               1.05 KiB / gzip: 0.57 KiB
+storybook-static/assets/line-height.stories.f24b08a0.js.map           1.39 KiB
+storybook-static/assets/radii.stories.c1f91951.js                     1.03 KiB / gzip: 0.56 KiB
+storybook-static/assets/radii.stories.c1f91951.js.map                 1.34 KiB
+storybook-static/assets/fonts.stories.f5eacd74.js                     1.06 KiB / gzip: 0.57 KiB
+storybook-static/assets/fonts.stories.f5eacd74.js.map                 1.36 KiB
+storybook-static/assets/space.stories.86fb2daa.js                     1.05 KiB / gzip: 0.57 KiB
+storybook-static/assets/space.stories.86fb2daa.js.map                 1.36 KiB
+storybook-static/assets/DocsRenderer-EYKKDMVH.1561aff6.js             0.35 KiB / gzip: 0.23 KiB
+storybook-static/assets/DocsRenderer-EYKKDMVH.1561aff6.js.map         0.11 KiB
+storybook-static/assets/index.e35f9ece.js                             0.24 KiB / gzip: 0.17 KiB
+storybook-static/assets/index.e35f9ece.js.map                         0.10 KiB
+storybook-static/assets/syntaxhighlighter-QTQ2UBB4.66a6ea2b.js        0.38 KiB / gzip: 0.25 KiB
+storybook-static/assets/syntaxhighlighter-QTQ2UBB4.66a6ea2b.js.map    0.12 KiB
+storybook-static/assets/WithTooltip-FBT32F6Q.7b5b624c.js              0.37 KiB / gzip: 0.23 KiB
+storybook-static/assets/WithTooltip-FBT32F6Q.7b5b624c.js.map          0.11 KiB
+storybook-static/assets/GlobalScrollAreaStyles-XIHNDKUY.20c63818.js   10.09 KiB / gzip: 2.25 KiB
+storybook-static/assets/GlobalScrollAreaStyles-XIHNDKUY.20c63818.js.map 16.58 KiB
+storybook-static/assets/TokensGrid.37594f72.css                       0.42 KiB / gzip: 0.22 KiB
+storybook-static/assets/Color-3YIJY6X7.f04076e2.js                    30.23 KiB / gzip: 11.38 KiB
+storybook-static/assets/Color-3YIJY6X7.f04076e2.js.map                111.02 KiB
+storybook-static/assets/Button.stories.1e05ec59.js                    18.91 KiB / gzip: 7.33 KiB
+storybook-static/assets/Button.stories.1e05ec59.js.map                42.91 KiB
+storybook-static/assets/OverlayScrollbars-VAV6LJAB.6e9915f4.js        57.50 KiB / gzip: 24.68 KiB
+storybook-static/assets/OverlayScrollbars-VAV6LJAB.6e9915f4.js.map    277.22 KiB
+storybook-static/assets/preview.aa65fbb5.js                           91.43 KiB / gzip: 37.82 KiB
+storybook-static/assets/preview.aa65fbb5.js.map                       556.10 KiB
+storybook-static/assets/index.6c3020ff.js                             209.40 KiB / gzip: 65.41 KiB
+storybook-static/assets/index.6c3020ff.js.map                         634.26 KiB
+storybook-static/assets/config.ef32666d.js                            322.45 KiB / gzip: 94.66 KiB
+storybook-static/assets/config.ef32666d.js.map                        1114.98 KiB
+storybook-static/assets/chunk-PCJTTTQV.e19209b1.js                    502.29 KiB / gzip: 162.38 KiB
+storybook-static/assets/chunk-PCJTTTQV.e19209b1.js.map                1392.92 KiB
+storybook-static/assets/formatter-S4K5WUZV.ac36e271.js                598.19 KiB / gzip: 180.98 KiB
+storybook-static/assets/formatter-S4K5WUZV.ac36e271.js.map            1278.95 KiB
+
+(!) Some chunks are larger than 500 KiB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/guide/en/#outputmanualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+info => Output directory: /Users/luke/Desktop/Projetos/design-system/packages/docs/storybook-static
